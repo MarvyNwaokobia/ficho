@@ -1,6 +1,10 @@
 # Compiler output
+artifacts/
 cache/
 out/
+dist/
+types/
+fhevmTemp/
 
 # Dependencies
 node_modules/
@@ -9,6 +13,10 @@ lib/
 # Environment
 .env
 .env.local
+
+# Coverage
+coverage/
+coverage.json
 
 # IDE
 .vscode/
@@ -23,3 +31,6 @@ broadcast/
 
 # Claude
 .claude/
+
+# Misc
+package-lock.json
