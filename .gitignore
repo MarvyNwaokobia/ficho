@@ -1,0 +1,25 @@
+# Compiler output
+cache/
+out/
+
+# Dependencies
+node_modules/
+lib/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Foundry
+broadcast/
+
+# Claude
+.claude/
